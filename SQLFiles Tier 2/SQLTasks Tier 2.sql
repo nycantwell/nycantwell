@@ -86,7 +86,7 @@ FROM `Members` )
 Include in your output the name of the court, and the name of the member
 formatted as a single column. Ensure no duplicate data, and order by
 the member name. */
-SELECT DISTINCT CONCAT(m.firstname,' ',m.surname), f.facid 
+SELECT DISTINCT CONCAT(m.firstname,' ',m.surname) AS memname, f.name 
 FROM `Bookings` AS b 
 LEFT JOIN `Members` AS m ON b.memid = m.memid 
 LEFT JOIN `Facilities` AS f ON b.facid = f.facid 
