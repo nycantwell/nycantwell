@@ -1,1 +1,1 @@
-# bootcamp_repo
+# Hi it's Nathan! Data scientist, analyst, and engineer.
