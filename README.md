@@ -1,1 +1,1 @@
-# Hi it's Nathan! Data scientist, analyst, and engineer.
+# Hey it's Nathan! Data scientist, analyst, and engineer.
