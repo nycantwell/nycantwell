@@ -1,0 +1,12 @@
+,site_code,full_name,area,mean_depth,type
+0,LIS,Long_Island_Sound,LIS_from_New_London_to_Greenwich_CT,5-46_m,Estuary
+1,GB,Georges_Bank,42154.44,81.9,Ocean
+2,GoM,Gulf_of_Maine,76482.74,167.3,Ocean
+3,MAB,Mid_Atlantic_Bight,79661.9,nd,Ocean
+4,SNE,Southern_New_England,28004.29,nd,Ocean
+5,CB,Chesapeake_Bay,nd,nd,Estuary
+6,NB,Narragansett_Bay,420,nd,Estuary
+7,HR,Hudson_River,nd,nd,Estuary
+8,CTS,Connecticut_Shoreline,nd,nd,Estuary
+9,Del,Delaware_Bay,nd,nd,Estuary
+10,NJ,Ambrose_Channel,nd,3-15_fathom_isobath,Ocean
