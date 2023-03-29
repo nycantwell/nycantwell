@@ -1,6 +1,6 @@
 # Capstone 2
 
-![](https://user-images.githubusercontent.com/100109678/228625873-0d3b31fc-888d-4818-9468-73683585ded5.png)
+![](https://user-images.githubusercontent.com/100109678/228625873-0d3b31fc-888d-4818-9468-73683585ded5.png =250x250)
 
 ![Screenshot (15)](https://user-images.githubusercontent.com/100109678/228625905-216564e1-de1a-4ad3-b2d2-5bbdb5c6da58.png)
 
