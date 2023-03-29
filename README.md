@@ -17,4 +17,6 @@
 * Growing my toolkit and knowledge in the data science and analytics space. There will always be so much to learn!
 * Further out the dream path is gathering the experience and skills to be a principal and lead data scientist.
 * Coding up my personal projects. Applying my ever growing toolkit to hobbyist ideas in sports and gaming ML and analytics.
-* Finding the next great hike. Whether it's a quick weekend trek or a journey through one of our stunning National Parks I love getting out there.
+* Finding the next great hike. Whether it's a quick weekend trek or a journey through one of our stunning National Parks I love just getting out there!
+
+![IMG_8944](https://user-images.githubusercontent.com/100109678/228622399-017a1bfc-ea35-4dba-acf5-db5178b7b49f.jpg)
