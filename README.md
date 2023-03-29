@@ -5,11 +5,12 @@
 ## What I do :chart_with_upwards_trend:
 
 * Dive into the data. I genuinely love the wrangling, munging, and cleaning to transform raw data into something structured and clear.
-* Visualize key insights from data exploration and modeling. My goal in my projects both professional and personal is to deliver what I have learned to my stakholders. This almost always comes in visuals and dashboards with a data backed and consise message.
+* Programming an optimized machine learning model. Each project I take on requires a unique solution using data industry best practices and tools.
+* Visualize key insights from data exploration and modeling. My goal in my projects both professional and personal is to deliver what I have learned to my stakeholders. This almost always comes in visuals and dashboards with a data backed and consise message.
 
 ## How I do it :triangular_ruler:
 
-* My primary tools in the data stack are: PostgreSQL, Apache Airflow, Python, Apache Spark, and Tableau.
+* My primary tools in the data stack are: PostgreSQL, Apache Airflow, Python, MySQL, Apache Spark, PowerBI, and Tableau.
 * Within Python I use packages such as: numpy, pandas, sklearn, scipy, statsmodels, matplotlib, and seaborn.
 
 ## Looking ahead :telescope:
