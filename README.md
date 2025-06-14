@@ -1,6 +1,6 @@
-<img width="1200" alt="687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67" src="https://user-images.githubusercontent.com/100109678/228613710-54f3509c-5a6b-4cc0-b7fc-1f4a3d6a73a6.png">
+![IMG_8944](https://user-images.githubusercontent.com/100109678/228622399-017a1bfc-ea35-4dba-acf5-db5178b7b49f.jpg)
 
-# Hello world it's Nathan, data scientist and analyst!
+# Hi it's Nathan, data scientist and analyst!
 
 ## What I do :chart_with_upwards_trend:
 
@@ -20,4 +20,3 @@
 - Coding up my personal projects. Applying my ever growing toolkit to hobbyist ideas in sports and gaming ML and analytics.
 - Finding the next great hike. Whether it's a quick weekend trek or a journey through one of our stunning National Parks I love just getting out there!
 ---
-![IMG_8944](https://user-images.githubusercontent.com/100109678/228622399-017a1bfc-ea35-4dba-acf5-db5178b7b49f.jpg)
